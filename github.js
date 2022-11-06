@@ -4,11 +4,10 @@ class Github {
         // this.client_secret = '5e1941228d8fe7b267d897511ce95adef9245df7'
 
 
-
-        //seems that this Authorization had broken
+        //seems that this Authorization had been broken
         this.config = {
             headers: {
-                Authorization: 'token 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'
+                Authorization: 'token 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'
             }
         }
 
@@ -26,7 +25,6 @@ class Github {
             profile,
             repos
         }
-
 
 
     }
