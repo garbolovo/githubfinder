@@ -3,6 +3,9 @@ class Github {
         // this.client_id = '95ee1928a25802da64e2';
         // this.client_secret = '5e1941228d8fe7b267d897511ce95adef9245df7'
 
+
+
+        //seems that this Authorization had broken
         this.config = {
             headers: {
                 Authorization: 'token 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'
@@ -28,4 +31,8 @@ class Github {
 
     }
 }
+
+
+
+
 
